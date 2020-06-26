@@ -11,6 +11,9 @@
 常用准则：计算期T内的水电站总发电量E（T）最大或总发电效益Ec（T）最大。
 <div>$123$</div>
 <span>123\gamma</span>
+\begin{equation}
+\gamma
+\end{equation}
 
 本篇基于LINGO求解器，进行优化问题求解，所以提前了解LINGO的使用和问题的调试是基础，以下给出参考的资料，也可自己百度或官网学习。
 https://wenku.baidu.com/view/af9b2c5d03d276a20029bd64783e0912a3167cd5.html
