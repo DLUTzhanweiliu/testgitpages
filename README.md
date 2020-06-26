@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <center>梯级库群短期负荷分配方法—LINGO</center>
 # 了解篇
 短期水电调度分为两种模式
