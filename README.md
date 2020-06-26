@@ -1,4 +1,4 @@
-## 欢迎使用github pages
+<center>梯级库群短期负荷分配方法—LINGO</center>
 
 You can use the [editor on GitHub](https://github.com/DLUTzhanweiliu/testgitpages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
