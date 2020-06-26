@@ -11,9 +11,7 @@
 常用准则：计算期T内的水电站总发电量E（T）最大或总发电效益Ec（T）最大。
 <div>$123$</div>
 <span>123\gamma</span>
-\begin{equation}
-\gamma
-\end{equation}
+&gamma
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 [equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 
