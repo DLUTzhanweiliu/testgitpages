@@ -13,7 +13,7 @@ $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
 本篇基于LINGO求解器，进行优化问题求解，所以提前了解LINGO的使用和问题的调试是基础，以下给出参考的资料，也可自己百度或官网学习。
 https://wenku.baidu.com/view/af9b2c5d03d276a20029bd64783e0912a3167cd5.html
 此为LINGO的基础使用方法，可便于新手了解和快速上手应用。仅供参考
- https://dlutzhanweiliu.github.io/testgitpages/testfile
+ [测试文档](https://dlutzhanweiliu.github.io/testgitpages/testfile)
 此为官网使用手册可更进一步详细学习和查看。
 
 案例
