@@ -14,6 +14,7 @@
 \begin{equation}
 \gamma
 \end{equation}
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 [equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 
 本篇基于LINGO求解器，进行优化问题求解，所以提前了解LINGO的使用和问题的调试是基础，以下给出参考的资料，也可自己百度或官网学习。
