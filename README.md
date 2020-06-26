@@ -10,8 +10,8 @@
 达到极值的水电站总负荷过程、各时段工作机组的最优台数、组合、有功负荷在工作机组间的最优分配，以及相应的水库蓄泄状态变化过程和泄流设施控制过程。
 常用准则：计算期T内的水电站总发电量E（T）最大或总发电效益Ec（T）最大。
 <div>$123$</div>
-<span>123\gamma</span>
-&gamma
+<span>123\gamma&gamma;</span>
+
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 [equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 
