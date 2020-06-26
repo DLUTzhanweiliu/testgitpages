@@ -1,4 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <center>梯级库群短期负荷分配方法—LINGO</center>
 # 了解篇  
 短期水电调度分为两种模式  
@@ -9,8 +8,6 @@
 对于计算期T，在已知预测入库流量过程和总用水量等条件下，寻求使所采用的优化准则
 达到极值的水电站总负荷过程、各时段工作机组的最优台数、组合、有功负荷在工作机组间的最优分配，以及相应的水库蓄泄状态变化过程和泄流设施控制过程。
 常用准则：计算期T内的水电站总发电量E（T）最大或总发电效益Ec（T）最大。
-<div>$123$</div>
-<span>123\gamma</span>
 &gamma;
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 [equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
